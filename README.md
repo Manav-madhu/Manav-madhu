@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="banner.jpg" alt="Manav Madhu's Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Manav%20Madhu&fontSize=40&animation=fadeIn" alt="Animated Header" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Manav Madhu! 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Web Developer | Backend Engineer | Linux Enthusiast | Cybersecurity Explorer</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1793D1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer;Backend+Engineer;Linux+Enthusiast;Cybersecurity+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
