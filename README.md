@@ -40,7 +40,7 @@ I am a passionate **Full-Stack Web Developer** who loves crafting robust, scalab
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,mongodb,redis,graphql,docker,aws,nginx,git,github,bash,linux,py,cpp" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,mongodb,redis,graphql,docker,aws,nginx,git,github,bash,linux,py,cpp,vim,neovim" />
   </a>
 </p>
 </details>
